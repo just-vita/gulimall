@@ -1,0 +1,17 @@
+spring:
+  # 应用名称
+  application:
+    name: gulimall-third-party
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848
+# 应用服务 WEB 访问端口
+server:
+  port: 30000
+
+cosProperties:
+  bucketName: learn-1312191491
+  accessKey: AKIDTlob6KJ3XkghS5ewDF1ZAYgZ5LM6ZlgL
+  secretKey: SeZqvlNjqiLhuxoyvhPwCCwPfgQt5zd2
+  region: ap-beijing
