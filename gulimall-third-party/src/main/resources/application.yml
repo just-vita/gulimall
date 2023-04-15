@@ -11,7 +11,7 @@ server:
   port: 30000
 
 cosProperties:
-  bucketName: learn-1312191491
-  accessKey: AKIDTlob6KJ3XkghS5ewDF1ZAYgZ5LM6ZlgL
-  secretKey: SeZqvlNjqiLhuxoyvhPwCCwPfgQt5zd2
+  bucketName: xx
+  accessKey: xxxx
+  secretKey: xxx
   region: ap-beijing
