@@ -15,5 +15,10 @@
         <module>gulimall-product</module>
         <module>gulimall-order</module>
         <module>gulimall-member</module>
+<!--        <module>renren-fast</module>-->
+<!--        <module>renren-generator</module>-->
+        <module>gulimall-commen</module>
+        <module>gulimall-gateway</module>
+        <module>gulimall-search</module>
     </modules>
 </project>
